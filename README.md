@@ -1,7 +1,7 @@
 ## Hi I'm Quang :fox_face:
 
 <a href="https://github.com/cnquang">
- <img align="right" src="https://user-images.githubusercontent.com/87842051/160264946-8ad08c94-9a96-4fd0-8efe-b8ade4336425.gif" alt="Coder GIF" width="350" height="350">
+ <img align="right" src="https://user-images.githubusercontent.com/87842051/160264946-8ad08c94-9a96-4fd0-8efe-b8ade4336425.gif" alt="Coder GIF" width="330" height="330">
 
 [Quang](https://www.linkedin.com/in/nhat-quang-cao-26786a1a6/) is a PhD student in the School of Computing Technologies at RMIT University, Australia. He obtained his bachelor’s degree in Mechatronic Engineering from Ho Chi Minh City University of Technology (HCMUT) in 2014. After that, he completed his master’s degree in Cyber Security from RMIT University, Australia, in 2020 with a High Distinction. The master’s degree was supported by the Australian Awards Scholarship (Department of Foreign Affairs and Trade). Recently, his research focused on Blockchain privacy and security. This work is supported by the STEM Scholarship (Australian Research Council through the Discovery Project under Grant DP200100731), granted to [Quang](https://www.linkedin.com/in/nhat-quang-cao-26786a1a6/) in 2021 for the next three years of research associated with his PhD program.
 
