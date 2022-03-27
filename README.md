@@ -15,6 +15,10 @@ Quang is a PhD student in the School of Computing Technologies at RMIT Universit
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+⭐️ From [Quang](https://github.com/cnquang)
+
+[![Linkedin Badge](https://img.shields.io/badge/-quang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quang/)](https://www.linkedin.com/in/nhat-quang-cao-26786a1a6/) 
+[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/cnquang)
 
 <p align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnquang&theme=dark">
@@ -23,13 +27,3 @@ Quang is a PhD student in the School of Computing Technologies at RMIT Universit
 <br><br>
 
 <img align="right" src="https://profile-counter.glitch.me/cnquang/count.svg" alt="Hello world" />
-
----
-
-⭐️ From [Quang](https://github.com/cnquang)
-
-[![Linkedin Badge](https://img.shields.io/badge/-quang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quang/)](https://www.linkedin.com/in/nhat-quang-cao-26786a1a6/) 
-
-[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/cnquang)
-
----
