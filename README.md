@@ -22,10 +22,9 @@
 
 
 <p align="center" href="https://github.com/cnquang">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnquang&theme=dark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnquang&show_icons=true&theme=dark&line_height=30" alt="Quang's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnquang&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cnquang&show_icons=true&theme=dark&line_height=30" alt="Quang's github stats"/>
 </p>
-<br><br>
  
 <img align="right" src="https://profile-counter.glitch.me/cnquang/count.svg" alt="Hello world" />
 
