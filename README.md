@@ -17,7 +17,7 @@
 
 ⭐️ From [Quang](https://github.com/cnquang)
 
-[![Linkedin Badge](https://img.shields.io/badge/-quang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quang/)](https://www.linkedin.com/in/nhat-quang-cao-26786a1a6/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhat-quang-cao-26786a1a6/) 
 [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/cnquang)
 
 
