@@ -19,7 +19,3 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhat-quang-cao-26786a1a6/) 
 [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/cnquang)
- 
-<img align="right" src="https://profile-counter.glitch.me/cnquang/count.svg" alt="Hello world" />
-
-
